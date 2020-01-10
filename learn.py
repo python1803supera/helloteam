@@ -1,1 +1,2 @@
 print("tiancai")
+xiaotaincaijiayi1
